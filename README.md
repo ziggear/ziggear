@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Hao Zhang, an iOS/React Native developer from 🇨🇳 China. 
+My name is Hao Zhang (he/him), an iOS/React Native developer from 🇨🇳 China. 
 I am passionate about technology, enthusiastic about open source, and have a keen interest in exploring and solving problems.
 
 ### My Projects 📒
