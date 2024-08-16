@@ -13,3 +13,5 @@ Here are some projects I opensourced:
 ### Contact 📮
 
 You can reach me via ziggear@gmail.com
+
+[![Ziggear's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziggear)](https://github.com/ziggear/github-readme-stats)
