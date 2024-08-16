@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Views](https://komarev.com/ghpvc/?username=ziggear) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5c5c5c?&logo=Linkedin&?logoColor=white&link=https://www.linkedin.com/in/hao-zhang-ios/)](https://www.linkedin.com/in/hao-zhang-ios/)
+
+
 My name is Hao Zhang (he/him), an iOS/React Native developer from 🇨🇳 China. 
 I am passionate about technology, enthusiastic about open source, and have a keen interest in exploring and solving problems.
 
