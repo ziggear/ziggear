@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ziggear/ziggear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Hao Zhang, an iOS/React Native developer in 🇨🇳China, with a passion for technology, a love for open source, and a keen interest in exploring and solving problems.
 
-Here are some ideas to get you started:
+### My Projects 📒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some projects I opensourced:
+
+- [ZGExpandableTable](https://github.com/ziggear/ZGExpandableTable/) An UITableView that can expand/collapse to display better for JSON
+- [AIChat-iOS](https://github.com/ziggear/AIChat-iOS) A demo project for me to learn Swift and SwiftUI (also hope to provide inspiriation who wants to develop AI message app)
+
+### Contact 📮
+
+You can reach me via ziggear@gmail.com
