@@ -10,6 +10,7 @@ I am passionate about technology, enthusiastic about open source, and have a kee
 
 Here are some projects I opensourced:
 
+- [Wander-Audio-Simulator](https://github.com/ziggear/wander-audio-simulator/) A spatial audio simulator based on React and Web Audio API
 - [ZGExpandableTable](https://github.com/ziggear/ZGExpandableTable/) An UITableView that can expand/collapse to display better for JSON
 - [AIChat-iOS](https://github.com/ziggear/AIChat-iOS) A demo project for me to learn Swift and SwiftUI (also hope to provide inspiriation who wants to develop AI message app)
 
